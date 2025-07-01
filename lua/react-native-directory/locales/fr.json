@@ -1,0 +1,8 @@
+{
+  "telescope": {
+    "preview_title": "Détails de la bibliothèque",
+    "prompt_title": "React Native Directory",
+    "platforms": "Plateforme compatible: {{platforms}}",
+    "unmaintained": "⚠️ Non Entretenu! ⚠️"
+  }
+}
