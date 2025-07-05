@@ -8,7 +8,7 @@ A Neovim plugin that allows browsing through the React Native Directory and perf
 
 - 🔭 Search through the packages in the React Native Directory.
 - 🔍 Filter by [tokens...](./lua/react-native-directory/tokens.lua) with `:` prefix
-- 🚀 `<C-i> to install the selected package in the current workspace using your preferred package manager.
+- 🚀 `<C-i>` to install the selected package in the current workspace using your preferred package manager.
 
 ## 📦 Installation
 
