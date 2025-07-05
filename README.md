@@ -1,5 +1,7 @@
 # React Native Directory Neovim plugin
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)][pr]
+
 A Neovim plugin that allows browsing through the React Native Directory and performing actions related to the chosen package from a Telescope popup.
 
 ## ✨ Features
@@ -22,3 +24,5 @@ A Neovim plugin that allows browsing through the React Native Directory and perf
   end,
 }
 ```
+
+[pr]: http://makeapullrequest.com
